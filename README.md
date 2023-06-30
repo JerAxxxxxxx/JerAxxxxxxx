@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+显示活跃度
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerAxxxxxxx)](https://github.com/anuraghazra/github-readme-stats)
-
-
+显示常用编程语言
+![JerAxxxxxxx's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerAxxxxxxx&layout=compact&hide_border=true&langs_count=10)
 -->
